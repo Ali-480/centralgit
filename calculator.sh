@@ -1,1 +1,4 @@
-a=a+b
+#! /bin/bash
+
+
+## Addition Function
